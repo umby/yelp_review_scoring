@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/james/yelp_cnn/runs/1481598633/checkpoints/model-40000"
+all_model_checkpoint_paths: "/home/james/yelp_cnn/runs/1481598633/checkpoints/model-20000"
+all_model_checkpoint_paths: "/home/james/yelp_cnn/runs/1481598633/checkpoints/model-40000"
